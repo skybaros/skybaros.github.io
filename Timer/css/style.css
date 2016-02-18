@@ -1,0 +1,41 @@
+div {
+	margin: auto;
+	width: 900px;
+}
+
+
+* {
+	font-size: 1.45em;
+	font-family: "Courier New", Courier, monospace;
+}
+
+p {
+	margin: auto;
+	color: #FF00AC;
+	width: 500px;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.text {
+	font-size: 15px;
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+body {
+	border: 1px solid black;
+	border-radius: 15px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#control {
+	width: 180px;
+}
+
+#start, #reset {
+	width: 75px;
+	height: 30px;
+	font-size: 20px;
+}
+	
