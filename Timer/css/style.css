@@ -28,3 +28,14 @@ body {
 	border-radius: 15px;
 	box-shadow: 10px 10px 5px #888888;
 }
+
+#control {
+	width: 180px;
+}
+
+#start, #reset {
+	width: 75px;
+	height: 30px;
+	font-size: 20px;
+}
+	
